@@ -1,6 +1,10 @@
+STAGE 1
 Project Summary
 Personally building portfolios has become an increasingly common method to make money and store savings due to apps such as Robinhood giving people the ability to purchase stocks with minimal necessary capital or credentials. However, the data these apps provide can be somewhat limited, leaving these portfolios with more risk than desired to expected. One possible issue could be correlation. A properly hedged portfolio would contain stocks that are oppositely correlated, so that when one falls the other rises, ensuring constant and consistent gains. A regular individual who may not be too educated about finance may attempt to build their own portfolio and while attempting to diversify it, pick stocks that move in lockstep rather and oppositely. As such, building a product that can use historical data and determine the correlation between two or more stocks can close this information gap, protecting these people's savings and investments.
 Stakeholder memo
 The main end user is imagined to be a small investor, for example a user of Robinhood who picks a few stocks to store their savings. This user would lave limited access to or knowledge of financial data, thus needing an acessible and easy way to calculate correlation. The end product must be easily accesible to find it's way to the users, easily usible as users should not have much technical knowhow and most importantly, accurate.
 Framing Slide
 https://docs.google.com/presentation/d/1wPp_pWczRxEY6AuZoUc1aM97yOx9-RJGvuxMswxXKPo/edit?usp=sharing
+
+Stage 5
+Data is sorted into a processed and raw folder. All data is stored in a .csv format. Code reads from the files via name so ensure file name matches to what is stated in the code REPLACE DUMMIES

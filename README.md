@@ -10,3 +10,9 @@ GitHub.
 - Include all required files for grading.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
+
+## Homework 5
+Within the homework 5 foloder located within homework, there are 4 files, a folder named data, .env, .env example and the homework 5 itself
+- .env and .env example are for storage of API keys and secrets
+- data has a processed and raw subfolder containing data before and after processing
+
