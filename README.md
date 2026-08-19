@@ -16,3 +16,10 @@ Within the homework 5 foloder located within homework, there are 4 files, a fold
 - .env and .env example are for storage of API keys and secrets
 - data has a processed and raw subfolder containing data before and after processing
 
+## Homework 6
+
+Assumptions:
+-
+Cleaning strategy for median was to identify collums with numbers in them. Then, it would go through these empty collums and calculate the median, before filling it back in
+Cleaning stratrgy for dropping rows is simlar with rows containing missing values simply being dropped
+Cleaning strategy for the normalizer is to scale numbers using a min max scaler
