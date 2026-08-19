@@ -19,7 +19,8 @@ Within the homework 5 foloder located within homework, there are 4 files, a fold
 ## Homework 6
 
 Assumptions:
--
+-Data is missing completely at random, this was assumed as the data is abitraliy taken so there should be no specific reason for certain data to be missing
+-Dropped rows aren't critical
 Cleaning strategy for median was to identify collums with numbers in them. Then, it would go through these empty collums and calculate the median, before filling it back in
 Cleaning stratrgy for dropping rows is simlar with rows containing missing values simply being dropped
 Cleaning strategy for the normalizer is to scale numbers using a min max scaler
